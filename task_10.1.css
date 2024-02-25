@@ -1,0 +1,51 @@
+
+
+.bg-container{
+    padding: 45px;
+
+    text-align: center;
+
+}
+
+.bx {
+    height: 70px;
+    width: 100px;
+    background-color: rgb(72, 73, 74);
+    border: 2px solid black;
+    margin: 1px;
+    display: inline-block;
+    padding: 10px;
+
+
+
+}
+
+.main-heading {
+    font-size: 15px;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 10px;
+
+
+}
+
+.imag-mute {
+    height: 10px;
+    width: 20px;
+
+}
+
+.para {
+    display: block;
+}
+
+.main-head {
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 3px;
+    text-decoration: underline;
+    
+}
